@@ -102,3 +102,5 @@ To learn more about Next.js, take a look at the following resources:
 
 If you need additional help setting up the template or have any questions, feel free to contact us at <rodrigo@tailwindawesome.com>.
 # izzul-portfolio
+# izzul-portfolio
+# izzul-portfolio
